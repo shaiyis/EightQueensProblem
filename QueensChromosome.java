@@ -35,12 +35,14 @@ public class QueensChromosome {
         this.fitness = 28;
         for (int i = 0; i < 8; i++) {
             for (int j = i+1; j < 8; j++) {
+                // same diagonal
                 if ((chromosome[i] - i) == (chromosome[j] - j)){
                     this.fitness--;
                 }
                 else if ((chromosome[i] + i) == (chromosome[j] + j)){
                     this.fitness--;
                 }
+                // same row
                 else if  (chromosome[i] == (chromosome[j])){
                     this.fitness--;
                 }
