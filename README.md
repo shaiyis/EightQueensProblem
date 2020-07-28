@@ -10,7 +10,7 @@ java -jar EightQueens.jar
 # Built With
 PyCharm - IDE by JetBrains
 
-# Youyube link
+# Youtube link
 https://youtu.be/v4g9KAbQkRg
 
 # Authors
