@@ -11,7 +11,7 @@ java -jar EightQueens.jar
 PyCharm - IDE by JetBrains
 
 # Youtube link
-https://youtu.be/v4g9KAbQkRg
+https://youtu.be/57PtZYKKusQ
 
 # Authors
 Israel Shai
